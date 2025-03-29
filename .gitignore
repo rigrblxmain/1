@@ -18,7 +18,7 @@
 
 	IDs of free accessories:
 	3033910400,3409612660,3438342658,3398308134,4324158403,3822880197,4154538250,3443038622,4819740796
-]]
+]]--
 
 --no need to get and index the library tables with function names every time the script uses them
 local osclock=os.clock
