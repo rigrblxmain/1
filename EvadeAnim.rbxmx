@@ -19,7 +19,7 @@
 				<token name="Priority">3</token>
 				<BinaryString name="AttributesSerialize"></BinaryString>
 				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
-				<bool name="DefinesCapabilities">false</bool> 
+				<bool name="DefinesCapabilities">false</bool>
 				<string name="Name">Jump</string>
 				<int64 name="SourceAssetId">-1</int64>
 				<BinaryString name="Tags"></BinaryString>
