@@ -226,12 +226,12 @@ local HatKnownAccessoriesDatabase = {
 		}
 	},
   { -- 77214452514875
-		meshid = "77214452514875", textureid = "",
-		c0 = cframe.new(-1.5, -0.5, -0.5, 1, 0, 0, 0, 1, 0, 0, 0, 1),
-		c1 = cframe.new(-5, 0.5, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0),
-		limb = "Torso", group = "Gun",
-		attachments = {
-			gunattachment = cframe.new(4, 0.2, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0),
+		MeshId = "77214452514875", TextureId = "",
+		C0 = CFrame.new(-1.5, -0.5, -0.5, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+		C1 = CFrame.new(-5, 0.5, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0),
+		Limb = "Torso", Group = "Gun",
+		Attachments = {
+			GunAttachment = CFrame.new(4, 0.2, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0),
 		}
 	},
 }
